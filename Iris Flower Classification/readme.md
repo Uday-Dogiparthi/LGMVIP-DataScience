@@ -1,2 +1,2 @@
-# Introduction
-This is a basic level ML project 
+# Iris Flower Classification
+This ML project is like the basic starting point, similar to saying "Hello World" in programming. It uses a set of data about iris flowers, and the data has numbers in it. It's great for beginners who want to learn about a type of ML called supervised learning. This project helps you learn how to work with data, like how to get it into your program and use it. Since the data is not too big, you don't need to do any fancy stuff to use it. You can just put it into your computer's memory and use it without making it special or changing it a lot.
